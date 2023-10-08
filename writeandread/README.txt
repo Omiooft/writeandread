@@ -1,0 +1,1 @@
+(This was all written in writeandread) This is not to be used as an actual file editor. You can only edit .txt files. To start enter 00, after paste in the file directory for example "C:\...\writeandread\filename.txt", enter r to view the file contents, and w to override the file data. Press 00 after if you pick to write the file, and enter your text!
